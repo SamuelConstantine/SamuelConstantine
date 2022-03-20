@@ -2,6 +2,7 @@
 
 Bem vind@s ao meu perfil!
 Primeiramente amo novos desafios se tiver um pode me chamar!!:smile::rofl:.
+
 Sou um profissional da área de Tecnologia da Informação, me apaixonei pela área quando tiver meu primeiro contato com uma linguagem de programação e comecei a estudar como era feito a criação e desenvolvimento de sistemas e jogos.
 Hoje em dia estou me especializando em desenvolvimento full-stack utilizando a stack JS (Node, React, React Native, Adonis JS e Angular). Acho incrível as possibilidades de todas as tecnologias e tudo o que podemos fazer para melhorar as condições de vida.
 
