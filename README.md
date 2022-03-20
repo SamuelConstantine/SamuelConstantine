@@ -1,7 +1,9 @@
 # Olá! Eu sou o  <b> Samuel-Constantino🔥💻</b>
 
-Sou apaixonado por criação e desenvolvimento de sistemas. Em 2019 conheci a programação por curiosidade de entender como estes sistemas funcionavam.
-Hoje tenho 3 anos de programação, comecei por JavaScript, PHP, POO e comecei a me aventurar em desenvolvimento de apps e sites em 2020. Passei também por IONIC até chegar ao Flutter, plataforma pela qual me apaixonei e com a qual trabalho até hoje.
+Bem vind@s ao meu perfil!
+Primeiramente amo novos desafios se tiver um pode me chamar!!:smile::rofl:.
+Sou um profissional da área de Tecnologia da Informação, me apaixonei pela área quando tiver meu primeiro contato com uma linguagem de programação e comecei a estudar como era feito a criação e desenvolvimento de sistemas e jogos.
+Hoje em dia estou me especializando em desenvolvimento full-stack utilizando a stack JS (Node, React, React Native, Adonis JS e Angular). Acho incrível as possibilidades de todas as tecnologias e tudo o que podemos fazer para melhorar as condições de vida.
 
 <b>Atualmente estou estudando Analise e desenvolvimento de software e estou mergulhando a fundo em todo esse ecossistema da tecnologia. Adoro compartilhar conhecimento e discutir sobre tecnologias, bora tomar um café?</b>
 
