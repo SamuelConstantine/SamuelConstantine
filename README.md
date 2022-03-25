@@ -21,7 +21,7 @@ Hoje em dia estou me especializando em desenvolvimento full-stack utilizando a s
  <img src="https://brandslogos.com/wp-content/uploads/images/large/angular-icon-logo.png" min-width="45px" max-width="45px" width="45px"/>
  <img src="https://www.designbust.com/download/240/png/php_icon512.png" min-width="50px" max-width="50px" width="50px"/>
  <img src="https://hackr.io/tutorials/adonis-js/logo-adonis-js.svg?ver=1557508193" min-width="50px" max-width="50px" width="50px"/>
- <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftoppng.com%2Ffree-image%2Freact-logo-icon-PNG-free-PNG-Images_473109&psig=AOvVaw2cywQWCtezFS28OiIEqFIj&ust=1648254819626000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMissuyB4PYCFQAAAAAdAAAAABAD" width="50px">
+ <img src="https://mpng.subpng.com/20180604/pol/kisspng-react-javascript-angularjs-ionic-atom-5b154be6709500.6532453515281223424611.jpg" max-width="50px" width="50px">
  <img src="https://assets.codepen.io/94311/internal/avatars/users/default.png?fit=crop&format=auto&height=256&version=1560265340&width=256" min-width="50px" max-width="50px" width="50px"/>
  <img src="https://www.kindpng.com/picc/m/355-3557482_flutter-logo-png-transparent-png.png" min-width="45px" max-width="45px" width="45px"/>
   
