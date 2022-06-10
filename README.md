@@ -23,7 +23,7 @@ Hoje em dia estou me especializando em desenvolvimento full-stack utilizando a s
  <img src="https://hackr.io/tutorials/adonis-js/logo-adonis-js.svg?ver=1557508193" min-width="50px" max-width="50px" width="50px"/>
  <img src="https://www.pngfind.com/pngs/m/685-6854994_react-logo-no-background-hd-png-download.png" max-width="50px" width="50px">
  <img src="https://assets.codepen.io/94311/internal/avatars/users/default.png?fit=crop&format=auto&height=256&version=1560265340&width=256" min-width="50px" max-width="50px" width="50px"/>
- <img src="[https://www.kindpng.com/picc/m/355-3557482_flutter-logo-png-transparent-png.png](https://pub.dev/packages/pixelarticons)" min-width="45px" max-width="45px" width="45px"/>
+ <img src="[https://www.kindpng.com/picc/m/355-3557482_flutter-logo-png-transparent-png.png](https://user-images.githubusercontent.com/51419598/152648731-567997ec-ac1c-4a9c-a816-a1fb1882abbe.png)" min-width="45px" max-width="45px" width="45px"/>
   
   
   
