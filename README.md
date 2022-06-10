@@ -20,11 +20,12 @@ Hoje em dia estou me especializando em desenvolvimento full-stack utilizando a s
  <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
  <img src="https://brandslogos.com/wp-content/uploads/images/large/angular-icon-logo.png" min-width="45px" max-width="45px" width="45px"/>
  <img src="https://www.designbust.com/download/240/png/php_icon512.png" min-width="50px" max-width="50px" width="50px"/>
+<img src="https://img.icons8.com/color/480/nodejs.png" min-width="45px" max-width="50px" width="50px"/>
  <img src="https://hackr.io/tutorials/adonis-js/logo-adonis-js.svg?ver=1557508193" min-width="50px" max-width="50px" width="50px"/>
  <img src="https://www.pngfind.com/pngs/m/685-6854994_react-logo-no-background-hd-png-download.png" max-width="50px" width="50px">
  <img src="https://assets.codepen.io/94311/internal/avatars/users/default.png?fit=crop&format=auto&height=256&version=1560265340&width=256" min-width="50px" max-width="50px" width="50px"/>
  <img src="https://cdn.iconscout.com/icon/free/png-256/flutter-3629369-3032362.png" min-width="45px" max-width="45px" width="45px"/>
- <img src="https://img.icons8.com/color/480/nodejs.png" min-width="45px" max-width="45px" width="45px"/>
+ 
   
   
   
