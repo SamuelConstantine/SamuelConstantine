@@ -24,7 +24,7 @@ Hoje em dia estou me especializando em desenvolvimento full-stack utilizando a s
  <img src="https://www.pngfind.com/pngs/m/685-6854994_react-logo-no-background-hd-png-download.png" max-width="50px" width="50px">
  <img src="https://assets.codepen.io/94311/internal/avatars/users/default.png?fit=crop&format=auto&height=256&version=1560265340&width=256" min-width="50px" max-width="50px" width="50px"/>
  <img src="https://cdn.iconscout.com/icon/free/png-256/flutter-3629369-3032362.png" min-width="45px" max-width="45px" width="45px"/>
- <img src="[https://cdn.iconscout.com/icon/free/png-256/flutter-3629369-3032362.png](https://img.icons8.com/color/480/nodejs.png)" min-width="45px" max-width="45px" width="45px"/>
+ <img src="https://img.icons8.com/color/480/nodejs.png" min-width="45px" max-width="45px" width="45px"/>
   
   
   
